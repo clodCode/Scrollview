@@ -1,0 +1,2 @@
+# Scrollview
+重写了SrcollView，让一个item始终在中间，并重写了onTouchEvent参数使其返回中间的itemnumber，有实现类似效果的可以参考或重写ViewPager
